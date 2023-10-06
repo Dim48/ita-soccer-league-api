@@ -1,0 +1,13 @@
+{
+    "firstName": "David",
+    "lastName": "Filipovic",
+    "age": 18,
+    "imageUrl": "playerImage.png",
+    "nationality": "AFGHAN",
+    "countryCode": "RS",
+    "position": "MIDFIELDER",
+    "club": {
+      "name": "string",
+      "imageUrl": "fk-nikola-tesla-logo.png"
+    }
+  }

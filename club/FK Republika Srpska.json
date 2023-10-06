@@ -1,0 +1,93 @@
+{
+    "name": "FK Republika Srpska",
+    "city": "Chicago",
+    "founded": "2003",
+    "social": {
+      "instagram": "https://www.instagram.com/fkrepsrpska/?igshid=YmMyMTA2M2Y%3D",
+      "facebook": "https://www.facebook.com/fkrepublikasrpskachicago/"
+    },
+    "imageUrl": "FK-REPUBLIKA-SRPSKA.png",
+    "short": "FKRS",
+    "matchesPlayed": [
+      {
+        "name": "match2",
+        "hostClub": {
+          "name": "FK Republika Srpska",
+          "imageUrl": "FK-REPUBLIKA-SRPSKA.png"
+        },
+        "guestClub": {
+          "name": "LionEight",
+          "imageUrl": "lioneight-logo.png"
+        },
+        "hostGoals": 1,
+        "guestGoals": 1,
+        "date": "01/01/2023",
+        "matchWeek": 1,
+        "halftimeHostGoals": 1,
+        "halftimeGuestGoals": 0,
+        "field": "FIELD_1"
+      },
+      {
+        "name": "match7",
+        "guestClub": {
+          "name": "FK Republika Srpska",
+          "imageUrl": "FK-REPUBLIKA-SRPSKA.png"
+        },
+        "hostClub": {
+          "name": "LionEight",
+          "imageUrl": "lioneight-logo.png"
+        },
+        "hostGoals": 2,
+        "guestGoals": 2,
+        "date": "15/02/2023",
+        "matchWeek": 1,
+        "halftimeHostGoals": 1,
+        "halftimeGuestGoals": 1,
+        "field": "FIELD_1"
+      }
+    ],
+    "matchesWon": 1,
+    "matchesDrawn": 2,
+    "matchesLost": 3,
+    "goalsFor": 4,
+    "goalsAgainst": 5,
+    "points": 6,
+    "squad": {
+      "GOALKEEPER": [
+        {
+          "firstName": "Jose",
+          "lastName": "Leyva",
+          "age": 21,
+          "imageUrl": "string",
+          "nationality": "GREEK",
+          "countryCode": "GR",
+          "position": "GOALKEEPER",
+          "number": 6
+        }
+      ],
+      "DEFENDER": [
+        {
+          "firstName": "Tony",
+          "lastName": "Castro",
+          "age": 19,
+          "imageUrl": "string",
+          "nationality": "AFGHAN",
+          "countryCode": "AF",
+          "position": "DEFENDER",
+          "number": 15
+        }
+      ],
+      "MIDFIELDER": [
+        {
+          "firstName": "David",
+          "lastName": "Filipovic",
+          "age": 18,
+          "imageUrl": "string",
+          "nationality": "SERBIAN",
+          "countryCode": "RS",
+          "position": "MIDFIELDER",
+          "number": 11
+        }
+      ]
+    }
+  }

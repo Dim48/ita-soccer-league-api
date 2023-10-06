@@ -1,0 +1,604 @@
+[
+    {
+      "name": "F.K. Nikola Tesla Chicago",
+      "city": "Chicago",
+      "founded": "2020",
+      "social": {},
+      "imageUrl": "fk-nikola-tesla-logo.png",
+      "short": "FKNT",
+      "matchesPlayed": [
+        {
+          "name": "string",
+          "hostClub": {
+            "name": "string",
+            "imageUrl": "string"
+          },
+          "guestClub": {
+            "name": "string",
+            "imageUrl": "string"
+          },
+          "hostGoals": 0,
+          "guestGoals": 0,
+          "date": "string",
+          "field": "FIELD_1",
+          "winner": true
+        }
+      ],
+      "matchesWon": 1,
+      "matchesDrawn": 2,
+      "matchesLost": 3,
+      "goalsFor": 4,
+      "goalsAgainst": 5,
+      "points": 6,
+      "squad": {
+        "additionalProp1": [
+          {
+            "firstName": "string",
+            "lastName": "string",
+            "age": 21,
+            "imageUrl": "string",
+            "nationality": "AFGHAN",
+            "position": "GOALKEEPER",
+            "number": 6
+          }
+        ],
+        "additionalProp2": [
+          {
+            "firstName": "string",
+            "lastName": "string",
+            "age": 19,
+            "imageUrl": "string",
+            "nationality": "AFGHAN",
+            "position": "DEFENDER",
+            "number": 15
+          }
+        ],
+        "additionalProp3": [
+          {
+            "firstName": "string",
+            "lastName": "string",
+            "age": 18,
+            "imageUrl": "string",
+            "nationality": "AFGHAN",
+            "position": "MIDFIELDER",
+            "number": 11
+          }
+        ]
+      }
+    },
+    {
+      "name": "B.H. Ljiljan S.C.",
+      "city": "Chicago",
+      "founded": "2017",
+      "imageUrl": "b.h.-ljiljan-sc.png",
+      "short": "BiH",
+      "matchesPlayed": [
+        {
+          "name": "string",
+          "hostClub": {
+            "name": "string",
+            "imageUrl": "string"
+          },
+          "guestClub": {
+            "name": "string",
+            "imageUrl": "string"
+          },
+          "hostGoals": 0,
+          "guestGoals": 0,
+          "date": "string",
+          "field": "FIELD_1",
+          "winner": true
+        }
+      ],
+      "matchesWon": 0,
+      "matchesDrawn": 0,
+      "matchesLost": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "points": 0,
+      "squad": {
+        "additionalProp1": [
+          {
+            "firstName": "string",
+            "lastName": "string",
+            "age": 0,
+            "imageUrl": "string",
+            "nationality": "AFGHAN",
+            "position": "GOALKEEPER",
+            "number": 0
+          }
+        ],
+        "additionalProp2": [
+          {
+            "firstName": "string",
+            "lastName": "string",
+            "age": 0,
+            "imageUrl": "string",
+            "nationality": "AFGHAN",
+            "position": "GOALKEEPER",
+            "number": 0
+          }
+        ],
+        "additionalProp3": [
+          {
+            "firstName": "string",
+            "lastName": "string",
+            "age": 0,
+            "imageUrl": "string",
+            "nationality": "AFGHAN",
+            "position": "GOALKEEPER",
+            "number": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "SC Hammers",
+      "city": "Chicago",
+      "instagram": "https://www.instagram.com/hammers_soccer_club/?igshid=MTg0ZDhmNDA%3D",
+      "facebook": "https://www.facebook.com/hammerssoccerclub/",
+      "founded": "string",
+      "imageUrl": "sc-hammers.png",
+      "short": "SCH",
+      "matchesPlayed": [
+        {
+          "name": "string",
+          "hostClub": {
+            "name": "string",
+            "imageUrl": "string"
+          },
+          "guestClub": {
+            "name": "string",
+            "imageUrl": "string"
+          },
+          "hostGoals": 0,
+          "guestGoals": 0,
+          "date": "string",
+          "field": "FIELD_1",
+          "winner": true
+        }
+      ],
+      "matchesWon": 0,
+      "matchesDrawn": 0,
+      "matchesLost": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "points": 0,
+      "squad": {
+        "additionalProp1": [
+          {
+            "firstName": "string",
+            "lastName": "string",
+            "age": 0,
+            "imageUrl": "string",
+            "nationality": "AFGHAN",
+            "position": "GOALKEEPER",
+            "number": 0
+          }
+        ],
+        "additionalProp2": [
+          {
+            "firstName": "string",
+            "lastName": "string",
+            "age": 0,
+            "imageUrl": "string",
+            "nationality": "AFGHAN",
+            "position": "GOALKEEPER",
+            "number": 0
+          }
+        ],
+        "additionalProp3": [
+          {
+            "firstName": "string",
+            "lastName": "string",
+            "age": 0,
+            "imageUrl": "string",
+            "nationality": "AFGHAN",
+            "position": "GOALKEEPER",
+            "number": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Wisloka Chicago",
+      "city": "Chicago",
+      "instagram": "https://www.instagram.com/wislokachicago/?hl=en",
+      "facebook": "https://www.facebook.com/WislokaChicago/",
+      "founded": "2018",
+      "imageUrl": "wisloka.png",
+      "short": "WIS",
+      "matchesPlayed": [
+        {
+          "name": "string",
+          "hostClub": {
+            "name": "string",
+            "imageUrl": "string"
+          },
+          "guestClub": {
+            "name": "string",
+            "imageUrl": "string"
+          },
+          "hostGoals": 0,
+          "guestGoals": 0,
+          "date": "string",
+          "field": "FIELD_1",
+          "winner": true
+        }
+      ],
+      "matchesWon": 0,
+      "matchesDrawn": 0,
+      "matchesLost": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "points": 0,
+      "squad": {
+        "additionalProp1": [
+          {
+            "firstName": "string",
+            "lastName": "string",
+            "age": 0,
+            "imageUrl": "string",
+            "nationality": "AFGHAN",
+            "position": "GOALKEEPER",
+            "number": 0
+          }
+        ],
+        "additionalProp2": [
+          {
+            "firstName": "string",
+            "lastName": "string",
+            "age": 0,
+            "imageUrl": "string",
+            "nationality": "AFGHAN",
+            "position": "GOALKEEPER",
+            "number": 0
+          }
+        ],
+        "additionalProp3": [
+          {
+            "firstName": "string",
+            "lastName": "string",
+            "age": 0,
+            "imageUrl": "string",
+            "nationality": "AFGHAN",
+            "position": "GOALKEEPER",
+            "number": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "FK Republika Srpska",
+      "city": "Chicago",
+      "instagram": "https://www.instagram.com/fkrepsrpska/?igshid=YmMyMTA2M2Y%3D",
+      "facebook": "https://www.facebook.com/fkrepublikasrpskachicago/",
+      "founded": "2003",
+      "imageUrl": "FK-REPUBLIKA-SRPSKA.png",
+      "short": "FKRS",
+      "matchesPlayed": [
+        {
+          "name": "string",
+          "hostClub": {
+            "name": "string",
+            "imageUrl": "string"
+          },
+          "guestClub": {
+            "name": "string",
+            "imageUrl": "string"
+          },
+          "hostGoals": 0,
+          "guestGoals": 0,
+          "date": "string",
+          "field": "FIELD_1",
+          "winner": true
+        }
+      ],
+      "matchesWon": 0,
+      "matchesDrawn": 0,
+      "matchesLost": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "points": 0,
+      "squad": {
+        "additionalProp1": [
+          {
+            "firstName": "string",
+            "lastName": "string",
+            "age": 0,
+            "imageUrl": "string",
+            "nationality": "AFGHAN",
+            "position": "GOALKEEPER",
+            "number": 0
+          }
+        ],
+        "additionalProp2": [
+          {
+            "firstName": "string",
+            "lastName": "string",
+            "age": 0,
+            "imageUrl": "string",
+            "nationality": "AFGHAN",
+            "position": "GOALKEEPER",
+            "number": 0
+          }
+        ],
+        "additionalProp3": [
+          {
+            "firstName": "string",
+            "lastName": "string",
+            "age": 0,
+            "imageUrl": "string",
+            "nationality": "AFGHAN",
+            "position": "GOALKEEPER",
+            "number": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "LionEight",
+      "city": "McCook",
+      "founded": "2013",
+      "imageUrl": "lioneight-logo.png",
+      "short": "LE",
+      "matchesPlayed": [
+        {
+          "name": "string",
+          "hostClub": {
+            "name": "string",
+            "imageUrl": "string"
+          },
+          "guestClub": {
+            "name": "string",
+            "imageUrl": "string"
+          },
+          "hostGoals": 0,
+          "guestGoals": 0,
+          "date": "string",
+          "field": "FIELD_1",
+          "winner": true
+        }
+      ],
+      "matchesWon": 0,
+      "matchesDrawn": 0,
+      "matchesLost": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "points": 0,
+      "squad": {
+        "additionalProp1": [
+          {
+            "firstName": "string",
+            "lastName": "string",
+            "age": 0,
+            "imageUrl": "string",
+            "nationality": "AFGHAN",
+            "position": "GOALKEEPER",
+            "number": 0
+          }
+        ],
+        "additionalProp2": [
+          {
+            "firstName": "string",
+            "lastName": "string",
+            "age": 0,
+            "imageUrl": "string",
+            "nationality": "AFGHAN",
+            "position": "GOALKEEPER",
+            "number": 0
+          }
+        ],
+        "additionalProp3": [
+          {
+            "firstName": "string",
+            "lastName": "string",
+            "age": 0,
+            "imageUrl": "string",
+            "nationality": "AFGHAN",
+            "position": "GOALKEEPER",
+            "number": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Grasshoppers",
+      "city": "Chicago",
+      "founded": "2016",
+      "imageUrl": "grasshoppers-logo.png",
+      "short": "GH",
+      "matchesPlayed": [
+        {
+          "name": "string",
+          "hostClub": {
+            "name": "string",
+            "imageUrl": "string"
+          },
+          "guestClub": {
+            "name": "string",
+            "imageUrl": "string"
+          },
+          "hostGoals": 0,
+          "guestGoals": 0,
+          "date": "string",
+          "field": "FIELD_1",
+          "winner": true
+        }
+      ],
+      "matchesWon": 0,
+      "matchesDrawn": 0,
+      "matchesLost": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "points": 0,
+      "squad": {
+        "additionalProp1": [
+          {
+            "firstName": "string",
+            "lastName": "string",
+            "age": 0,
+            "imageUrl": "string",
+            "nationality": "AFGHAN",
+            "position": "GOALKEEPER",
+            "number": 0
+          }
+        ],
+        "additionalProp2": [
+          {
+            "firstName": "string",
+            "lastName": "string",
+            "age": 0,
+            "imageUrl": "string",
+            "nationality": "AFGHAN",
+            "position": "GOALKEEPER",
+            "number": 0
+          }
+        ],
+        "additionalProp3": [
+          {
+            "firstName": "string",
+            "lastName": "string",
+            "age": 0,
+            "imageUrl": "string",
+            "nationality": "AFGHAN",
+            "position": "GOALKEEPER",
+            "number": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "F.C. C1 United",
+      "city": "Chicago",
+      "instagram": "https://www.instagram.com/c1united/?igshid=YmMyMTA2M2Y%3D",
+      "founded": "2016",
+      "imageUrl": "C1-LOGO-.png",
+      "short": "GH",
+      "matchesPlayed": [
+        {
+          "name": "string",
+          "hostClub": {
+            "name": "string",
+            "imageUrl": "string"
+          },
+          "guestClub": {
+            "name": "string",
+            "imageUrl": "string"
+          },
+          "hostGoals": 0,
+          "guestGoals": 0,
+          "date": "string",
+          "field": "FIELD_1",
+          "winner": true
+        }
+      ],
+      "matchesWon": 0,
+      "matchesDrawn": 0,
+      "matchesLost": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "points": 0,
+      "squad": {
+        "additionalProp1": [
+          {
+            "firstName": "string",
+            "lastName": "string",
+            "age": 0,
+            "imageUrl": "string",
+            "nationality": "AFGHAN",
+            "position": "GOALKEEPER",
+            "number": 0
+          }
+        ],
+        "additionalProp2": [
+          {
+            "firstName": "string",
+            "lastName": "string",
+            "age": 0,
+            "imageUrl": "string",
+            "nationality": "AFGHAN",
+            "position": "GOALKEEPER",
+            "number": 0
+          }
+        ],
+        "additionalProp3": [
+          {
+            "firstName": "string",
+            "lastName": "string",
+            "age": 0,
+            "imageUrl": "string",
+            "nationality": "AFGHAN",
+            "position": "GOALKEEPER",
+            "number": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Liths",
+      "city": "Chicago",
+      "founded": "2012",
+      "imageUrl": "liths.png",
+      "short": "LTS",
+      "matchesPlayed": [
+        {
+          "name": "string",
+          "hostClub": {
+            "name": "string",
+            "imageUrl": "string"
+          },
+          "guestClub": {
+            "name": "string",
+            "imageUrl": "string"
+          },
+          "hostGoals": 0,
+          "guestGoals": 0,
+          "date": "string",
+          "field": "FIELD_1",
+          "winner": true
+        }
+      ],
+      "matchesWon": 0,
+      "matchesDrawn": 0,
+      "matchesLost": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "points": 0,
+      "squad": {
+        "additionalProp1": [
+          {
+            "firstName": "string",
+            "lastName": "string",
+            "age": 0,
+            "imageUrl": "string",
+            "nationality": "AFGHAN",
+            "position": "GOALKEEPER",
+            "number": 0
+          }
+        ],
+        "additionalProp2": [
+          {
+            "firstName": "string",
+            "lastName": "string",
+            "age": 0,
+            "imageUrl": "string",
+            "nationality": "AFGHAN",
+            "position": "GOALKEEPER",
+            "number": 0
+          }
+        ],
+        "additionalProp3": [
+          {
+            "firstName": "string",
+            "lastName": "string",
+            "age": 0,
+            "imageUrl": "string",
+            "nationality": "AFGHAN",
+            "position": "GOALKEEPER",
+            "number": 0
+          }
+        ]
+      }
+    }
+  ]

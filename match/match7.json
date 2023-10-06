@@ -1,0 +1,18 @@
+{
+    "name": "match7",
+    "guestClub": {
+      "name": "FK Republika Srpska",
+      "imageUrl": "FK-REPUBLIKA-SRPSKA.png"
+    },
+    "hostClub": {
+      "name": "LionEight",
+      "imageUrl": "lioneight-logo.png"
+    },
+    "hostGoals": 2,
+    "guestGoals": 2,
+    "date": "15/02/2023",
+    "matchWeek": 1,
+    "halftimeHostGoals": 1,
+    "halftimeGuestGoals": 1,
+    "field": "FIELD_1"
+  }

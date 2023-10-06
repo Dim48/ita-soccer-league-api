@@ -1,0 +1,13 @@
+{
+    "firstName": "Jose",
+    "lastName": "Leyva",
+    "age": 21,
+    "imageUrl": "playerImage.png",
+    "nationality": "AFGHAN",
+    "countryCode": "GR",
+    "position": "GOALKEEPER",
+    "club": {
+      "name": "string",
+      "imageUrl": "b.h.-ljiljan-sc.png"
+    }
+  }

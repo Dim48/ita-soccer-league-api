@@ -1,0 +1,90 @@
+{
+    "name": "Liths",
+    "city": "Chicago",
+    "founded": "2017",
+    "social": {},
+    "imageUrl": "liths.png",
+    "short": "LTS",
+    "matchesPlayed": [
+      {
+        "name": "match3",
+        "hostClub": {
+          "name": "Liths",
+          "imageUrl": "liths.png"
+        },
+        "guestClub": {
+          "name": "Grasshoppers",
+          "imageUrl": "grasshoppers-logo.png"
+        },
+        "hostGoals": 1,
+        "guestGoals": 0,
+        "date": "15/10/2023",
+        "matchWeek": 1,
+        "halftimeHostGoals": 0,
+        "halftimeGuestGoals": 0,
+        "field": "FIELD_1"
+      },
+      {
+        "name": "match8",
+        "guestClub": {
+          "name": "Liths",
+          "imageUrl": "liths.png"
+        },
+        "hostClub": {
+          "name": "Grasshoppers",
+          "imageUrl": "grasshoppers-logo.png"
+        },
+        "hostGoals": 2,
+        "guestGoals": 4,
+        "date": "11/12/2023",
+        "matchWeek": 1,
+        "halftimeHostGoals": 1,
+        "halftimeGuestGoals": 2,
+        "field": "FIELD_1"
+      }
+    ],
+    "matchesWon": 1,
+    "matchesDrawn": 2,
+    "matchesLost": 3,
+    "goalsFor": 4,
+    "goalsAgainst": 5,
+    "points": 6,
+    "squad": {
+      "GOALKEEPER": [
+        {
+          "firstName": "Jose",
+          "lastName": "Leyva",
+          "age": 21,
+          "imageUrl": "string",
+          "nationality": "GREEK",
+          "countryCode": "GR",
+          "position": "GOALKEEPER",
+          "number": 6
+        }
+      ],
+      "DEFENDER": [
+        {
+          "firstName": "Tony",
+          "lastName": "Castro",
+          "age": 19,
+          "imageUrl": "string",
+          "nationality": "AFGHAN",
+          "countryCode": "AF",
+          "position": "DEFENDER",
+          "number": 15
+        }
+      ],
+      "MIDFIELDER": [
+        {
+          "firstName": "David",
+          "lastName": "Filipovic",
+          "age": 18,
+          "imageUrl": "string",
+          "nationality": "SERBIAN",
+          "countryCode": "RS",
+          "position": "MIDFIELDER",
+          "number": 11
+        }
+      ]
+    }
+  }

@@ -1,0 +1,13 @@
+{
+    "firstName": "Tony",
+    "lastName": "Castro",
+    "age": 19,
+    "imageUrl": "playerImage.png",
+    "nationality": "AFGHAN",
+    "countryCode": "AF",
+    "position": "DEFENDER",
+    "club": {
+      "name": "string",
+      "imageUrl": "grasshoppers-logo.png"
+    }
+  }
