@@ -2,11 +2,11 @@
   "name": "match1",
   "hostClub": {
     "name": "F.K. Nikola Tesla Chicago",
-    "imageUrl": "fk-nikola-tesla-logo.png"
+    "imageUrl": "fk-nikola-tesla-logo"
   },
   "guestClub": {
     "name": "B.H. Ljiljan S.C.",
-    "imageUrl": "b.h.-ljiljan-sc.png"
+    "imageUrl": "b.h.-ljiljan-sc"
   },
   "hostGoals": 4,
   "guestGoals": 4,

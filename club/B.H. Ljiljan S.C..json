@@ -3,18 +3,18 @@
     "city": "Chicago",
     "founded": "2017",
     "social": {},
-    "imageUrl": "b.h.-ljiljan-sc.png",
+    "imageUrl": "b.h.-ljiljan-sc",
     "short": "BiH",
     "matchesPlayed": [
       {
         "name": "match1",
         "hostClub": {
           "name": "F.K. Nikola Tesla Chicago",
-          "imageUrl": "fk-nikola-tesla-logo.png"
+          "imageUrl": "fk-nikola-tesla-logo"
         },
         "guestClub": {
           "name": "B.H. Ljiljan S.C.",
-          "imageUrl": "b.h.-ljiljan-sc.png"
+          "imageUrl": "b.h.-ljiljan-sc"
         },
         "hostGoals": 4,
         "guestGoals": 4,
@@ -28,11 +28,11 @@
         "name": "match6",
         "guestClub": {
           "name": "F.K. Nikola Tesla Chicago",
-          "imageUrl": "fk-nikola-tesla-logo.png"
+          "imageUrl": "fk-nikola-tesla-logo"
         },
         "hostClub": {
           "name": "B.H. Ljiljan S.C.",
-          "imageUrl": "b.h.-ljiljan-sc.png"
+          "imageUrl": "b.h.-ljiljan-sc"
         },
         "hostGoals": 3,
         "guestGoals": 2,
@@ -46,11 +46,11 @@
         "name": "match9",
         "guestClub": {
           "name": "B.H. Ljiljan S.C.",
-          "imageUrl": "b.h.-ljiljan-sc.png"
+          "imageUrl": "b.h.-ljiljan-sc"
         },
         "hostClub": {
           "name": "F.C. C1 United",
-          "imageUrl": "C1-LOGO-.png"
+          "imageUrl": "C1-LOGO-"
         },
         "hostGoals": 1,
         "guestGoals": 1,
@@ -64,11 +64,11 @@
         "name": "match4",
         "hostClub": {
           "name": "B.H. Ljiljan S.C.",
-          "imageUrl": "b.h.-ljiljan-sc.png"
+          "imageUrl": "b.h.-ljiljan-sc"
         },
         "guestClub": {
           "name": "F.C. C1 United",
-          "imageUrl": "C1-LOGO-.png"
+          "imageUrl": "C1-LOGO-"
         },
         "hostGoals": 3,
         "guestGoals": 0,

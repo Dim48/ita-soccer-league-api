@@ -2,11 +2,11 @@
   "name": "match5",
   "hostClub": {
     "name": "SC Hammers",
-    "imageUrl": "sc-hammers.png"
+    "imageUrl": "sc-hammers"
   },
   "guestClub": {
     "name": "Wisloka Chicago",
-    "imageUrl": "wisloka.png"
+    "imageUrl": "wisloka"
   },
   "hostGoals": 1,
   "guestGoals": 2,

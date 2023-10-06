@@ -5,18 +5,18 @@
     "social": {
       "instagram": "https://www.instagram.com/c1united/?igshid=YmMyMTA2M2Y%3D"
     },
-    "imageUrl": "C1-LOGO-.png",
+    "imageUrl": "C1-LOGO-",
     "short": "C1",
     "matchesPlayed": [
       {
         "name": "match4",
         "hostClub": {
           "name": "B.H. Ljiljan S.C.",
-          "imageUrl": "b.h.-ljiljan-sc.png"
+          "imageUrl": "b.h.-ljiljan-sc"
         },
         "guestClub": {
           "name": "F.C. C1 United",
-          "imageUrl": "C1-LOGO-.png"
+          "imageUrl": "C1-LOGO-"
         },
         "hostGoals": 3,
         "guestGoals": 0,
@@ -30,11 +30,11 @@
         "name": "match9",
         "guestClub": {
           "name": "B.H. Ljiljan S.C.",
-          "imageUrl": "b.h.-ljiljan-sc.png"
+          "imageUrl": "b.h.-ljiljan-sc"
         },
         "hostClub": {
           "name": "F.C. C1 United",
-          "imageUrl": "C1-LOGO-.png"
+          "imageUrl": "C1-LOGO-"
         },
         "hostGoals": 1,
         "guestGoals": 1,

@@ -6,18 +6,18 @@
       "instagram": "https://www.instagram.com/fkrepsrpska/?igshid=YmMyMTA2M2Y%3D",
       "facebook": "https://www.facebook.com/fkrepublikasrpskachicago/"
     },
-    "imageUrl": "FK-REPUBLIKA-SRPSKA.png",
+    "imageUrl": "FK-REPUBLIKA-SRPSKA",
     "short": "FKRS",
     "matchesPlayed": [
       {
         "name": "match2",
         "hostClub": {
           "name": "FK Republika Srpska",
-          "imageUrl": "FK-REPUBLIKA-SRPSKA.png"
+          "imageUrl": "FK-REPUBLIKA-SRPSKA"
         },
         "guestClub": {
           "name": "LionEight",
-          "imageUrl": "lioneight-logo.png"
+          "imageUrl": "lioneight-logo"
         },
         "hostGoals": 1,
         "guestGoals": 1,
@@ -31,11 +31,11 @@
         "name": "match7",
         "guestClub": {
           "name": "FK Republika Srpska",
-          "imageUrl": "FK-REPUBLIKA-SRPSKA.png"
+          "imageUrl": "FK-REPUBLIKA-SRPSKA"
         },
         "hostClub": {
           "name": "LionEight",
-          "imageUrl": "lioneight-logo.png"
+          "imageUrl": "lioneight-logo"
         },
         "hostGoals": 2,
         "guestGoals": 2,

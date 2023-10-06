@@ -3,7 +3,7 @@
     "name": "F.K. Nikola Tesla Chicago",
     "city": "Chicago",
     "founded": "2020",
-    "imageUrl": "fk-nikola-tesla-logo.png",
+    "imageUrl": "fk-nikola-tesla-logo",
     "short": "FKNT",
     "matchesPlayed": [
       {
@@ -133,7 +133,7 @@
     "name": "B.H. Ljiljan S.C.",
     "city": "Chicago",
     "founded": "2017",
-    "imageUrl": "b.h.-ljiljan-sc.png",
+    "imageUrl": "b.h.-ljiljan-sc",
     "short": "BiH",
     "matchesPlayed": [
       {
@@ -265,7 +265,7 @@
     "instagram": "https://www.instagram.com/hammers_soccer_club/?igshid=MTg0ZDhmNDA%3D",
     "facebook": "https://www.facebook.com/hammerssoccerclub/",
     "founded": "string",
-    "imageUrl": "sc-hammers.png",
+    "imageUrl": "sc-hammers",
     "short": "SCH",
     "matchesPlayed": [
       {
@@ -397,7 +397,7 @@
     "instagram": "https://www.instagram.com/wislokachicago/?hl=en",
     "facebook": "https://www.facebook.com/WislokaChicago/",
     "founded": "2018",
-    "imageUrl": "wisloka.png",
+    "imageUrl": "wisloka",
     "short": "WIS",
     "matchesPlayed": [
       {
@@ -529,7 +529,7 @@
     "instagram": "https://www.instagram.com/fkrepsrpska/?igshid=YmMyMTA2M2Y%3D",
     "facebook": "https://www.facebook.com/fkrepublikasrpskachicago/",
     "founded": "2003",
-    "imageUrl": "FK-REPUBLIKA-SRPSKA.png",
+    "imageUrl": "FK-REPUBLIKA-SRPSKA",
     "short": "FKRS",
     "matchesPlayed": [
       {
@@ -659,7 +659,7 @@
     "name": "LionEight",
     "city": "McCook",
     "founded": "2013",
-    "imageUrl": "lioneight-logo.png",
+    "imageUrl": "lioneight-logo",
     "short": "LE",
     "matchesPlayed": [
       {
@@ -789,7 +789,7 @@
     "name": "Grasshoppers",
     "city": "Chicago",
     "founded": "2016",
-    "imageUrl": "grasshoppers-logo.png",
+    "imageUrl": "grasshoppers-logo",
     "short": "GH",
     "matchesPlayed": [
       {
@@ -920,7 +920,7 @@
     "city": "Chicago",
     "instagram": "https://www.instagram.com/c1united/?igshid=YmMyMTA2M2Y%3D",
     "founded": "2016",
-    "imageUrl": "C1-LOGO-.png",
+    "imageUrl": "C1-LOGO-",
     "short": "C1",
     "matchesPlayed": [
       {
@@ -1050,7 +1050,7 @@
     "name": "Liths",
     "city": "Chicago",
     "founded": "2012",
-    "imageUrl": "liths.png",
+    "imageUrl": "liths",
     "short": "LTS",
     "matchesPlayed": [
       {

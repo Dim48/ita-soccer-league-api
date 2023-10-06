@@ -2,11 +2,11 @@
   "name": "match9",
   "guestClub": {
     "name": "B.H. Ljiljan S.C.",
-    "imageUrl": "b.h.-ljiljan-sc.png"
+    "imageUrl": "b.h.-ljiljan-sc"
   },
   "hostClub": {
     "name": "F.C. C1 United",
-    "imageUrl": "C1-LOGO-.png"
+    "imageUrl": "C1-LOGO-"
   },
   "hostGoals": 1,
   "guestGoals": 1,

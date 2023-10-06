@@ -8,6 +8,6 @@
     "position": "DEFENDER",
     "club": {
       "name": "string",
-      "imageUrl": "grasshoppers-logo.png"
+      "imageUrl": "grasshoppers-logo"
     }
   }

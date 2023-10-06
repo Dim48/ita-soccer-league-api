@@ -2,11 +2,11 @@
   "name": "match2",
   "hostClub": {
     "name": "FK Republika Srpska",
-    "imageUrl": "FK-REPUBLIKA-SRPSKA.png"
+    "imageUrl": "FK-REPUBLIKA-SRPSKA"
   },
   "guestClub": {
     "name": "LionEight",
-    "imageUrl": "lioneight-logo.png"
+    "imageUrl": "lioneight-logo"
   },
   "hostGoals": 1,
   "guestGoals": 1,

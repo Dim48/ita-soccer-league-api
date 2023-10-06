@@ -3,11 +3,11 @@
     "name": "match1",
     "hostClub": {
       "name": "F.K. Nikola Tesla Chicago",
-      "imageUrl": "fk-nikola-tesla-logo.png"
+      "imageUrl": "fk-nikola-tesla-logo"
     },
     "guestClub": {
       "name": "B.H. Ljiljan S.C.",
-      "imageUrl": "b.h.-ljiljan-sc.png"
+      "imageUrl": "b.h.-ljiljan-sc"
     },
     "hostGoals": 4,
     "guestGoals": 4,
@@ -21,11 +21,11 @@
     "name": "match2",
     "hostClub": {
       "name": "FK Republika Srpska",
-      "imageUrl": "FK-REPUBLIKA-SRPSKA.png"
+      "imageUrl": "FK-REPUBLIKA-SRPSKA"
     },
     "guestClub": {
       "name": "LionEight",
-      "imageUrl": "lioneight-logo.png"
+      "imageUrl": "lioneight-logo"
     },
     "hostGoals": 1,
     "guestGoals": 1,
@@ -39,11 +39,11 @@
     "name": "match3",
     "hostClub": {
       "name": "Liths",
-      "imageUrl": "liths.png"
+      "imageUrl": "liths"
     },
     "guestClub": {
       "name": "Grasshoppers",
-      "imageUrl": "grasshoppers-logo.png"
+      "imageUrl": "grasshoppers-logo"
     },
     "hostGoals": 1,
     "guestGoals": 0,
@@ -57,11 +57,11 @@
     "name": "match4",
     "hostClub": {
       "name": "B.H. Ljiljan S.C.",
-      "imageUrl": "b.h.-ljiljan-sc.png"
+      "imageUrl": "b.h.-ljiljan-sc"
     },
     "guestClub": {
       "name": "F.C. C1 United",
-      "imageUrl": "C1-LOGO-.png"
+      "imageUrl": "C1-LOGO-"
     },
     "hostGoals": 3,
     "guestGoals": 0,
@@ -75,11 +75,11 @@
     "name": "match5",
     "hostClub": {
       "name": "SC Hammers",
-      "imageUrl": "sc-hammers.png"
+      "imageUrl": "sc-hammers"
     },
     "guestClub": {
       "name": "Wisloka Chicago",
-      "imageUrl": "wisloka.png"
+      "imageUrl": "wisloka"
     },
     "hostGoals": 1,
     "guestGoals": 2,

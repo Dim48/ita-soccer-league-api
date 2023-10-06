@@ -8,6 +8,6 @@
     "position": "MIDFIELDER",
     "club": {
       "name": "string",
-      "imageUrl": "fk-nikola-tesla-logo.png"
+      "imageUrl": "fk-nikola-tesla-logo"
     }
   }

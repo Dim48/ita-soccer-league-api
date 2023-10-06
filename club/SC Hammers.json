@@ -6,18 +6,18 @@
       "instagram": "https://www.instagram.com/hammers_soccer_club/?igshid=MTg0ZDhmNDA%3D",
       "facebook": "https://www.facebook.com/hammerssoccerclub/"
     },
-    "imageUrl": "sc-hammers.png",
+    "imageUrl": "sc-hammers",
     "short": "SCH",
     "matchesPlayed": [
       {
         "name": "match5",
         "hostClub": {
           "name": "SC Hammers",
-          "imageUrl": "sc-hammers.png"
+          "imageUrl": "sc-hammers"
         },
         "guestClub": {
           "name": "Wisloka Chicago",
-          "imageUrl": "wisloka.png"
+          "imageUrl": "wisloka"
         },
         "hostGoals": 1,
         "guestGoals": 2,
@@ -31,11 +31,11 @@
         "name": "match10",
         "guestClub": {
           "name": "SC Hammers",
-          "imageUrl": "sc-hammers.png"
+          "imageUrl": "sc-hammers"
         },
         "hostClub": {
           "name": "Wisloka Chicago",
-          "imageUrl": "wisloka.png"
+          "imageUrl": "wisloka"
         },
         "hostGoals": 2,
         "guestGoals": 0,

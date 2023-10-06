@@ -2,11 +2,11 @@
   "name": "match3",
   "hostClub": {
     "name": "Liths",
-    "imageUrl": "liths.png"
+    "imageUrl": "liths"
   },
   "guestClub": {
     "name": "Grasshoppers",
-    "imageUrl": "grasshoppers-logo.png"
+    "imageUrl": "grasshoppers-logo"
   },
   "hostGoals": 1,
   "guestGoals": 0,
