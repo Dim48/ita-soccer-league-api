@@ -1,0 +1,18 @@
+{
+  "name": "match5",
+  "hostClub": {
+    "name": "SC Hammers",
+    "imageUrl": "sc-hammers.png"
+  },
+  "guestClub": {
+    "name": "Wisloka Chicago",
+    "imageUrl": "wisloka.png"
+  },
+  "hostGoals": 1,
+  "guestGoals": 2,
+  "date": "17/01/2023",
+  "matchWeek": 1,
+  "halftimeHostGoals": 1,
+  "halftimeGuestGoals": 1,
+  "field": "FIELD_1"
+}

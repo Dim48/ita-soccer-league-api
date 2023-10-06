@@ -1,0 +1,18 @@
+{
+  "name": "match4",
+  "hostClub": {
+    "name": "B.H. Ljiljan S.C.",
+    "imageUrl": "b.h.-ljiljan-sc.png"
+  },
+  "guestClub": {
+    "name": "F.C. C1 United",
+    "imageUrl": "C1-LOGO-.png"
+  },
+  "hostGoals": 3,
+  "guestGoals": 0,
+  "date": "09/02/2023",
+  "matchWeek": 1,
+  "halftimeHostGoals": 2,
+  "halftimeGuestGoals": 0,
+  "field": "FIELD_1"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "match1",
+  "hostClub": {
+    "name": "F.K. Nikola Tesla Chicago",
+    "imageUrl": "fk-nikola-tesla-logo.png"
+  },
+  "guestClub": {
+    "name": "B.H. Ljiljan S.C.",
+    "imageUrl": "b.h.-ljiljan-sc.png"
+  },
+  "hostGoals": 4,
+  "guestGoals": 4,
+  "date": "12/06/2023",
+  "matchWeek": 1,
+  "halftimeHostGoals": 1,
+  "halftimeGuestGoals": 2,
+  "field": "FIELD_1"
+}

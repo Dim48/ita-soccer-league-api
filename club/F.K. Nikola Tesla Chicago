@@ -1,0 +1,90 @@
+{
+  "name": "F.K. Nikola Tesla Chicago",
+  "city": "Chicago",
+  "founded": "2020",
+  "social": {},
+  "imageUrl": "fk-nikola-tesla-logo.png",
+  "short": "FKNT",
+  "matchesPlayed": [
+    {
+      "name": "match1",
+      "hostClub": {
+        "name": "F.K. Nikola Tesla Chicago",
+        "imageUrl": "fk-nikola-tesla-logo.png"
+      },
+      "guestClub": {
+        "name": "B.H. Ljiljan S.C.",
+        "imageUrl": "b.h.-ljiljan-sc.png"
+      },
+      "hostGoals": 4,
+      "guestGoals": 4,
+      "date": "12/06/2023",
+      "matchWeek": 1,
+      "halftimeHostGoals": 1,
+      "halftimeGuestGoals": 2,
+      "field": "FIELD_1"
+    },
+    {
+      "name": "match6",
+      "guestClub": {
+        "name": "F.K. Nikola Tesla Chicago",
+        "imageUrl": "fk-nikola-tesla-logo.png"
+      },
+      "hostClub": {
+        "name": "B.H. Ljiljan S.C.",
+        "imageUrl": "b.h.-ljiljan-sc.png"
+      },
+      "hostGoals": 3,
+      "guestGoals": 2,
+      "date": "02/01/2023",
+      "matchWeek": 1,
+      "halftimeHostGoals": 1,
+      "halftimeGuestGoals": 1,
+      "field": "FIELD_1"
+    }
+  ],
+  "matchesWon": 1,
+  "matchesDrawn": 2,
+  "matchesLost": 3,
+  "goalsFor": 4,
+  "goalsAgainst": 5,
+  "points": 6,
+  "squad": {
+    "GOALKEEPER": [
+      {
+        "firstName": "Jose",
+        "lastName": "Leyva",
+        "age": 21,
+        "imageUrl": "string",
+        "nationality": "GREEK",
+        "countryCode": "GR",
+        "position": "GOALKEEPER",
+        "number": 6
+      }
+    ],
+    "DEFENDER": [
+      {
+        "firstName": "Tony",
+        "lastName": "Castro",
+        "age": 19,
+        "imageUrl": "string",
+        "nationality": "AFGHAN",
+        "countryCode": "AF",
+        "position": "DEFENDER",
+        "number": 15
+      }
+    ],
+    "MIDFIELDER": [
+      {
+        "firstName": "David",
+        "lastName": "Filipovic",
+        "age": 18,
+        "imageUrl": "string",
+        "nationality": "SERBIAN",
+        "countryCode": "RS",
+        "position": "MIDFIELDER",
+        "number": 11
+      }
+    ]
+  }
+}
